@@ -7,4 +7,5 @@
 | 3 | Feb 26 2026 | NTH_VALUE, NTILE, CUME_DIST, PERCENT_RANK | None | Video ✅ | 3/5 |
 | 4 | Feb 27 2026 | LeetCode Optimization Practice | #177 (90.99% 🏆) Journey: 5%→90.99% | LeetCode ✅ | 4/5 |
 | 5 | Mar 03 2026 | LeetCode Window Functions Practice | #178 (95.67% 🏆) #180 (96.73% 🏆) | LeetCode ✅ | 5/5 |
+| 6 | Mar 05 2026 | Correlated & Non-Correlated Subquery, Joins | #175 (98.64% 🏆) 41%→98.64% | Claude + Ankit Bansal ✅ | 4/5 |
 ```
